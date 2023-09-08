@@ -1,0 +1,9 @@
+{
+"ST": "{^^}",
+"STLR": "{^}{#Return}{^}",
+"SP": "{^ ^}",
+"SPKL": "=undo",
+"SPKR": "{PLOVER:ADD_TRANSLATION}",
+"SL": "{^}{#Tab}{^}",
+"SLR": "{^}{#Escape}{^}"
+}
