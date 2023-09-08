@@ -8,6 +8,8 @@ NUMBERS = {}
 NUMBER_KEY = None
 FERAL_NUMBER_KEY = False
 UNDO_STROKE_STENO = ""
+DICTIONARIES_ROOT = "dictionaries/"
+DEFAULT_DICTIONARIES = ("wing-main.json", "wing-fingerspelling.json", "wing-commands.json")
 
 KEYMAPS = {
     'Gemini PR': {
